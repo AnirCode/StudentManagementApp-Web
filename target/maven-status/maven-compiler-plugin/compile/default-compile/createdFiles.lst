@@ -1,0 +1,8 @@
+com\mycompany\studentmanagementapp\web\servlets\UpdateStudentServlet.class
+com\mycompany\studentmanagementapp\web\servlets\DeleteServlet.class
+com\mycompany\studentmanagementapp\web\dao\StudentDAO.class
+com\mycompany\studentmanagementapp\web\entities\Student.class
+com\mycompany\studentmanagementapp\web\servlets\AddStudentServlet.class
+com\mycompany\studentmanagementapp\web\resources\JakartaEE10Resource.class
+com\mycompany\studentmanagementapp\web\JakartaRestConfiguration.class
+com\mycompany\studentmanagementapp\web\helper\CP.class
